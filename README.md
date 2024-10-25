@@ -1,2 +1,3 @@
 # Text-Sentiment-Analysis-using-Caikit-and-Hugging-Face
-Infinite Learning 
+Tugas: Infinite Learning 
+Mentor: Arifian Syahputra
